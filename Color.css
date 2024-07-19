@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Josefin+Slab:ital,wght@1,700&family=Noto+Sans+JP:wght@100&family=Young+Serif&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.title {
+    font-family: 'Young Serif', serif;
+    font-size: 45px;
+    box-shadow: 4px -6px #469383;
+    border-radius: 90px;
+    padding: 9px;
+
+}
+
+.parte {
+    font-family: 'Josefin Slab', serif;
+    font-size: 24px;
+}
+
+.elbutton {
+    flex-direction: column;
+    font-family: 'Josefin Slab', serif;
+    width: 134px;
+    height: 27px;
+    background-color: #108999;
+    padding: 6px;
+    box-sizing: border-box;
+    border: 2px solid #021413;
+    justify-content: center;
+    border-radius: 19px;
+    font-size: 18px;
+    align-items: center;
+    display: flex;
+    box-shadow: 1px 0px 17px #071816;
+}
+
+.pintura {
+    font-family: 'Josefin Slab', serif;
+    width: 213px;
+    height: 27px;
+    background-color: #8cb0b5;
+    padding: 6px;
+    box-sizing: border-box;
+    border: 2px solid #070906;
+    justify-content: center;
+    border-radius: 19px;
+    font-size: 18px;
+}
+
+.mine {
+    font-family: 'Young Serif', serif;
+}
